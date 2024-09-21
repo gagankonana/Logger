@@ -2,11 +2,6 @@
 
 `logger.h` provides a simple logging utility with different logging levels: DEBUG, INFO, and ERROR.
 
-## Features
-
-- **Log Levels:** DEBUG, INFO, ERROR
-- **Dynamic Configuration:** Set log level at runtime
-
 ## Usage
 
 1. Include the header:
